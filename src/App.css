@@ -31,7 +31,6 @@ p {
 
     .loginContainer {
         flex-direction: column !important;
-        
     }
 
     .loginContainer .left,
