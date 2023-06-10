@@ -6,7 +6,7 @@ function App() {
       <div className="container">
         <div className="loginContainer">
           <div className="left">
-            <h1>Welcome to website</h1>
+            <h1>Welcome to Aaliya's website</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
           </div>
           <div className="right">
