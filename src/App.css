@@ -40,6 +40,16 @@ p {
     }
 }
 
+input.username::placeholder {
+    font-family: FontAwesome;
+    color: rgb(197, 197, 197);
+}
+
+input.password::placeholder {
+    font-family: FontAwesome;
+    color: rgb(197, 197, 197);
+}
+
 .loginContainer {
     background: white;
     height: 100%;
@@ -92,7 +102,7 @@ p {
 
 .loginForm input[type="text"],
 .loginForm input[type="password"] {
-    width: 100%;
+    width: 78%;
     height: 35px;
     border: none;
     background: rgba(0, 0, 0, 0.1);
@@ -121,7 +131,6 @@ p {
     width: 50%;
     height: 35px;
     border: none;
-    background: rgba(0, 0, 0, 0.1);
     margin-top: 30px;
     border-radius: 35px;
     padding: 0 1rem;
